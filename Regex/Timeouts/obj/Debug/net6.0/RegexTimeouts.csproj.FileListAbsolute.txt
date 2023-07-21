@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.exe
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.deps.json
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.runtimeconfig.json
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.dll
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.pdb
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.AssemblyInfo.cs
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.dll
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\obj\Debug\net6.0\refint\RegexTimeouts.dll
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.pdb
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.genruntimeconfig.cache
+C:\Users\ACER\Desktop\.NET-with-C_Sharp-Essentials2\Regex\Timeouts\obj\Debug\net6.0\ref\RegexTimeouts.dll

@@ -1,7 +1,4 @@
-﻿// Exercise file for LinkedIn Learning Course .NET Programming with C# by Joe Marini
-// Demonstration of Garbage Collection
-
-void DoSomeBigOperation() {
+﻿void DoSomeBigOperation() {
     // create a large memory allocation that's only used in this function
     byte[] myArray = new byte[1000000];
 

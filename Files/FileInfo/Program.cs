@@ -1,7 +1,4 @@
-﻿// LinkedIn Learning Course .NET Programming with C# by Joe Marini
-// Working with file information
-
-// Make sure the example file exists
+﻿// Make sure the example file exists
 const string filename = "TestFile.txt";
 
 if (!File.Exists(filename)) {
